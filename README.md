@@ -1,0 +1,1 @@
+Creación de diseño de tema para WordPress, parte final del curso práctico de WordPress en la plataforma Platzi.com
